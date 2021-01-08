@@ -14,3 +14,28 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
 }
+
+.home_page_container {
+  background-image: url('./assets//images/zomoto-home.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+  background-position: center;
+  height: 512px;
+}
+
+.res_section {
+  width: 100%;
+  box-sizing: border-box;
+  float: left;
+  position: relative;
+  min-height: 107px;
+}
+
+.small_font_sz {
+  font-size: 0.8rem;
+}
+.res_other_font {
+  font-size: 10px;
+}

@@ -9,9 +9,13 @@
     "build": "parcel build src/index.html"
   },
   "dependencies": {
+    "bootstrap": "4.5.0",
     "prop-types": "^15.7.2",
+    "qs": "6.9.4",
     "react": "^16.13.0",
+    "react-bootstrap-typeahead": "5.0.0-rc.3",
     "react-dom": "^16.13.0",
+    "react-router-dom": "5.2.0",
     "styled-components": "^5.1.0"
   },
   "devDependencies": {
